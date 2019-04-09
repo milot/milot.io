@@ -1,0 +1,64 @@
+baseurl = "https://milot.io/"
+languageCode = "en"
+title = "Milot Shala"
+theme = "cactus-plus"
+hasCJKLanguage = false
+
+[params]
+	author = "Milot Shala"
+	description = "Milot Shala's thoughts"
+
+	twitter = "milot"
+	facebook = "milotshala.orig"
+
+	enableRSS = true
+	enableToc = true
+
+	enableDisqus = true
+	disqusShortname = "milot"
+
+
+	enableSummary = true
+	useDescriptionReplaceSummary = false
+
+
+	enableGoogleAnalytics = true
+	enableBaiduAnalytics = false
+
+	enableTwitterCard = true
+	twitterCardImage = ""
+
+	customCSS = []
+	customJS  = []
+
+	home = ""
+	about = ""
+	archive = ""
+	subscribe = ""
+
+	olderPosts = ""
+	newerPosts = ""
+	copyright = ""
+
+	# show latest posts in single page
+	showLatestPosts = false
+	readMore = ""
+
+	# Share
+	enableShare = true
+	tweet = ""
+	share = ""
+
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+	iconFont = "font-awesome"
+  socialIconStyle = ""
+
+
+# Add additional social link entries underneath
+[social]
+	facebook-square = "https://www.facebook.com/milotshala.orig"
+	twitter-square = "https://www.twitter.com/milot"
+	github-square = "https://www.github.com/milot"
